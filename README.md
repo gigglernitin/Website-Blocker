@@ -1,4 +1,4 @@
-# Website-Blocker
+# Website-Blocker by Ayustosh_shau 
 
 ## Use Case
 This is a simple python script that we can be used by Organization in their offices computers to block certain webistes for example www.bing.com or www.facebook.com during their working hours.
